@@ -1,8 +1,17 @@
 # Kasei Coin
 
-Purpose: To create a fungible token: Kasei
+Purpose: To create a fungible token: Kasei Coin
 
 # Technologies
+
+* Solidity https://soliditylang.org/about/
+* Remix - Ethereum IDE https://remix.ethereum.org/
+* Metamask https://metamask.io/about/
+* Ganache https://trufflesuite.com/ganache/
+* Contracts from OpenZepplin libraries https://www.openzeppelin.com/about
+  *  `ERC20`
+  * `ERC20Detailed`
+  * `ERC20Mintable`
 
 # Evaluation Evidence
 
